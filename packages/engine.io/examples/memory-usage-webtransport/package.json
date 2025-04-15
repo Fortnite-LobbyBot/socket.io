@@ -5,7 +5,7 @@
   "description": "",
   "type": "module",
   "dependencies": {
-    "@fails-components/webtransport": "^0.3.1",
+    "@fails-components/webtransport": "^1.0.1",
     "engine.io-client": "^6.5.3"
   }
 }
